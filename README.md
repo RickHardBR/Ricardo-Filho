@@ -35,3 +35,5 @@ Esse repositório vai acompanhar vocês até o final do curso, para mantermos a 
 ```
 
 Uma pasta para cada semana, dentro delas uma pasta para cada dia de aula e por fim uma pasta para o projeto da semana.
+
+  ![Snake animation](https://github.com/RickHardBR/Ricardo-Filho/blob/output/github-contribution-grid-snake.svg)
